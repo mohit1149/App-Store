@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button {
+  border-width: 0px;
+  background-color: transparent;
+  font-family: Bree Serif;
+  font-size: 20px;
+  color: #7b8794;
+  margin: 15px;
+}
+.horizontal-line {
+  background-color: #7b8794;
+  height: 4px;
+  width: 18vh;
+  border-radius: 5px;
+}
+.button-add-class-name {
+  color: #2563eb;
+}
+.button-add-class {
+  background-color: #2563eb;
+}
